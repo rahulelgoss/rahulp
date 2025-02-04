@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: goldenrod;
+
+}
+.container{
+    background-color: aqua;
+    justify-content: center;
+    width: 350px;
+    height: 400px;
+    padding: 75px;
+    margin: 35px
+}
+#ABC{
+    display: flex;
+    justify-content: center;
+
+}
+#K{
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+#box1{
+    padding: 17px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+}
+#id1{
+    display: inline;
+    justify-content: end;
+    padding: 7px;
+    margin: 6px;
+}
+#id2{
+    padding: 7px;
+    margin: 6px;
+    display: inline;
+    justify-content: end;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#id3{
+    display: inline;
+    justify-content: end;
+    padding: 16px;
+    margin: 6px;
+}
+#box2{
+    padding: 17px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+}
